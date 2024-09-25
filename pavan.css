@@ -1,0 +1,30 @@
+#pa1{
+  height: 560px;
+  width: 560px;
+  border: 2px solid black;
+}
+body{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 60px;
+}
+#pa2{
+  width: 560px;
+  height: 70px;
+  text-align: center;
+  font-size: 40px;
+}
+.black{
+  width: 70px;
+  height: 70px;
+  background-color: black;
+  color: white;
+float: left;
+}
+.white{
+  width: 70px;
+  height: 70px;
+  background-color:white;
+  float: left;
+}
